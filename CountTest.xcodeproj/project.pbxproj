@@ -13,6 +13,8 @@
 		C2163C0224B0610D00B62EA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2163C0024B0610D00B62EA1 /* Main.storyboard */; };
 		C2163C0424B0610F00B62EA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2163C0324B0610F00B62EA1 /* Assets.xcassets */; };
 		C2163C0724B0610F00B62EA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2163C0524B0610F00B62EA1 /* LaunchScreen.storyboard */; };
+		C2163C1424B072A400B62EA1 /* pumpkin2.png in Resources */ = {isa = PBXBuildFile; fileRef = C2163C1224B072A400B62EA1 /* pumpkin2.png */; };
+		C2163C1524B072A400B62EA1 /* pumpkin1.png in Resources */ = {isa = PBXBuildFile; fileRef = C2163C1324B072A400B62EA1 /* pumpkin1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		C2163C0324B0610F00B62EA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2163C0624B0610F00B62EA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2163C0824B0610F00B62EA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2163C1224B072A400B62EA1 /* pumpkin2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pumpkin2.png; sourceTree = "<group>"; };
+		C2163C1324B072A400B62EA1 /* pumpkin1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pumpkin1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				C2163BFC24B0610D00B62EA1 /* SceneDelegate.swift */,
 				C2163BFE24B0610D00B62EA1 /* ViewController.swift */,
 				C2163C0024B0610D00B62EA1 /* Main.storyboard */,
+				C2163C1324B072A400B62EA1 /* pumpkin1.png */,
+				C2163C1224B072A400B62EA1 /* pumpkin2.png */,
 				C2163C0324B0610F00B62EA1 /* Assets.xcassets */,
 				C2163C0524B0610F00B62EA1 /* LaunchScreen.storyboard */,
 				C2163C0824B0610F00B62EA1 /* Info.plist */,
@@ -126,6 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C2163C0724B0610F00B62EA1 /* LaunchScreen.storyboard in Resources */,
+				C2163C1524B072A400B62EA1 /* pumpkin1.png in Resources */,
+				C2163C1424B072A400B62EA1 /* pumpkin2.png in Resources */,
 				C2163C0424B0610F00B62EA1 /* Assets.xcassets in Resources */,
 				C2163C0224B0610D00B62EA1 /* Main.storyboard in Resources */,
 			);
